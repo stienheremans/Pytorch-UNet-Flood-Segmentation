@@ -1,5 +1,4 @@
 earthengine_api==0.1.345
-ee==0.4
 matplotlib==3.5.2
 numpy==1.21.5
 pandas==1.4.4
